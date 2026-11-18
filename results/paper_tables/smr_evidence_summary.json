@@ -1,0 +1,38 @@
+{
+  "artifact_type": "SMR-CWRF consolidated evidence summary",
+  "clean_primary": {
+    "cwrf_violation": 0.054921152800435,
+    "smr_violation": 0.053289831430125,
+    "violation_delta": -0.0014947683109118,
+    "cwrf_exposure": 0.6477015896961942,
+    "smr_exposure": 0.6388497081681429,
+    "exposure_delta": -0.0089193280801011,
+    "cwrf_length": 1.1616006059058128,
+    "smr_length": 1.1606628112931108,
+    "length_delta": -0.0010021193925059,
+    "cwrf_clearance": 6.074025834559617,
+    "smr_clearance": 6.105044540210286,
+    "clearance_delta": 0.0308567253463471
+  },
+  "corruption_direction_counts": {
+    "violation_improved": 5,
+    "exposure_improved": 6,
+    "length_improved": 6,
+    "clearance_improved": 6,
+    "conditions": 6
+  },
+  "route_seed_direction_counts": {
+    "violation_improved": 4,
+    "exposure_improved": 4,
+    "clearance_improved": 4,
+    "seeds": 4
+  },
+  "union_weights_dominating_smr": [],
+  "external_joint_reversal": true,
+  "runtime_ms": {
+    "mean": 63.103324995026924,
+    "p95": 98.5196649300633,
+    "selector_mean": 0.8301270002266392
+  },
+  "claim_boundary": "Primary evidence is same-domain image-plane planning. The held-out real-lunar subset reverses the aggregate SMR effect and must be reported."
+}

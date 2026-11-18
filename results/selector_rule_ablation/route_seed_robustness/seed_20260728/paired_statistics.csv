@@ -1,0 +1,13 @@
+baseline,candidate,metric,candidate_minus_baseline_mean,bootstrap_95_low,bootstrap_95_high,paired_frames
+mean_relative_regret,mean_scenario_cost,violation,-0.0014947683109118087,-0.0034877927254608867,0.0,669
+mean_relative_regret,mean_scenario_cost,risk_exposure,-0.006723134559523771,-0.01585313265142821,-0.0003719430747434334,669
+mean_relative_regret,mean_scenario_cost,length_ratio,0.0008381875567356492,0.00020668948589410555,0.0017861822219100909,669
+mean_relative_regret,mean_scenario_cost,minimum_clearance,0.0020973099127419245,-0.006682809342420931,0.01057083069773295,669
+mean_relative_regret,worst_relative_regret,violation,0.0009965122072745393,-0.001993024414549078,0.004982561036372695,669
+mean_relative_regret,worst_relative_regret,risk_exposure,0.007326698191499233,-0.0011317199698996207,0.0174532188088328,669
+mean_relative_regret,worst_relative_regret,length_ratio,0.0006887604866288251,-0.0003700852638644793,0.0020230117084147755,669
+mean_relative_regret,worst_relative_regret,minimum_clearance,0.013570325494584715,-0.009337866341942985,0.04531080691180063,669
+mean_relative_regret,worst_scenario_cost,violation,-0.0029895366218236174,-0.006477329347284504,0.0,669
+mean_relative_regret,worst_scenario_cost,risk_exposure,0.01944360574518241,-0.020757543774345143,0.08075637646444693,669
+mean_relative_regret,worst_scenario_cost,length_ratio,0.006703354342067964,0.004915050401289175,0.008876399119503347,669
+mean_relative_regret,worst_scenario_cost,minimum_clearance,0.11769271496818855,0.08321902452117479,0.158771458131553,669

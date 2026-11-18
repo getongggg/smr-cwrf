@@ -1,0 +1,6 @@
+# Versions present in the local export-validation environment; not the historical detector training lock.
+numpy==2.2.6
+pandas==2.3.3
+scipy==1.17.0
+opencv-python==4.12.0.88
+matplotlib==3.10.8

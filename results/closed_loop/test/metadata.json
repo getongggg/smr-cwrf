@@ -1,0 +1,29 @@
+{
+  "artifact_type": "Frozen procedural closed-loop simulation",
+  "split": "test",
+  "episodes": 1000,
+  "seed": 20260801,
+  "methods": [
+    "detector_1",
+    "consensus",
+    "union",
+    "cwrf",
+    "mean_scenario_cost",
+    "worst_relative_regret",
+    "smr_cwrf"
+  ],
+  "rcmr_status": "OMITTED_VALIDATION_GATE_FAILED",
+  "grid": [
+    48,
+    36
+  ],
+  "robot_radius": 1.0,
+  "safety_radius": 1.5,
+  "execution_noise_sigma": 0.2,
+  "execution_steps_per_replan": 3,
+  "max_replans": 30,
+  "paired_random_tape": true,
+  "contract": "D:\\Project\\yuyi\\cac_submission\\CLOSED_LOOP_SIMULATION_CONTRACT_20260728.md",
+  "contract_sha256": "B53E31FB807C4CE6D7BA4D5CCC8E13986409E7922E8B14E2972F13F89C4ABA71",
+  "source_sha256": "DAE54AD625BCCD9028D64BCC8666F3D4C3D6ACB7BC9939696996B3ED6563726A"
+}

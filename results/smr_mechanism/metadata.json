@@ -1,0 +1,17 @@
+{
+  "artifact_type": "Post-freeze SMR disagreement and oracle-gap mechanism analysis",
+  "claim_role": "Descriptive mechanism analysis; not algorithm or threshold selection.",
+  "validation_disagreement_quartiles": [
+    2.9605947323337506e-16,
+    0.004152316571646025,
+    0.1287449196361454
+  ],
+  "test_smr_oracle_match_rate_challenge": 0.4850462207721588,
+  "oracle_definition": "Lexicographic violation, exposure, length ratio, frozen candidate order; ground truth evaluation only.",
+  "source_files": {
+    "D:\\Project\\yuyi\\cac_submission\\results\\mr_cwrf\\development\\selection_benchmark\\planning_trials.csv": "933784C2F9857F21D926B0594648D605CCB8BBF665E1FAAE6DB81E6651795EE1",
+    "D:\\Project\\yuyi\\cac_submission\\results\\mr_cwrf\\development\\selection_benchmark\\decision_scores.csv": "D2CFC2618C5731897B57BA8C27D4E4EC6F4E85EBBDA9B01E66525FD7E605A39C",
+    "D:\\Project\\yuyi\\cac_submission\\results\\mr_cwrf\\frozen_clean_test\\planning_trials.csv": "616FABB23E03927CDBD6387BED24AF6C7460B6FB63F08195309F7AA39B288948",
+    "D:\\Project\\yuyi\\cac_submission\\results\\mr_cwrf\\frozen_clean_test\\decision_scores.csv": "09E76020AAB85B7932D9D2DF8B0E24C27FEEB2B36997562C649C7B2A2EE58BC2"
+  }
+}

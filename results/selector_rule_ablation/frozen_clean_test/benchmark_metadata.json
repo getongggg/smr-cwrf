@@ -1,0 +1,48 @@
+{
+  "artifact_type": "Post-freeze selector-rule mechanism ablation",
+  "rules": [
+    "mean_relative_regret",
+    "mean_scenario_cost",
+    "worst_relative_regret",
+    "worst_scenario_cost"
+  ],
+  "selection_counts": {
+    "mean_relative_regret": {
+      "consensus": 195,
+      "cwrf": 301,
+      "fixed_seed0": 1298,
+      "fixed_seed1": 389,
+      "fixed_seed2": 312,
+      "union": 103
+    },
+    "mean_scenario_cost": {
+      "consensus": 191,
+      "cwrf": 311,
+      "fixed_seed0": 1302,
+      "fixed_seed1": 380,
+      "fixed_seed2": 308,
+      "union": 106
+    },
+    "worst_relative_regret": {
+      "consensus": 195,
+      "cwrf": 297,
+      "fixed_seed0": 1274,
+      "fixed_seed1": 389,
+      "fixed_seed2": 331,
+      "union": 112
+    },
+    "worst_scenario_cost": {
+      "consensus": 47,
+      "cwrf": 48,
+      "fixed_seed0": 1383,
+      "fixed_seed1": 474,
+      "fixed_seed2": 531,
+      "union": 115
+    }
+  },
+  "claim_role": "Post-test descriptive mechanism analysis; not method or parameter selection.",
+  "planning_trials": "D:\\Project\\yuyi\\cac_submission\\results\\mr_cwrf\\frozen_clean_test\\planning_trials.csv",
+  "planning_trials_sha256": "616FABB23E03927CDBD6387BED24AF6C7460B6FB63F08195309F7AA39B288948",
+  "decision_scores": "D:\\Project\\yuyi\\cac_submission\\results\\mr_cwrf\\frozen_clean_test\\decision_scores.csv",
+  "decision_scores_sha256": "09E76020AAB85B7932D9D2DF8B0E24C27FEEB2B36997562C649C7B2A2EE58BC2"
+}
